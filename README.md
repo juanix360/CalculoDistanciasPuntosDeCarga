@@ -110,5 +110,5 @@ Este proyecto es propiedad de **CONSORCIO SIG-ELECTRIC**. Consulta el archivo `L
 
 ---
 
-Para cualquier consulta o comentario, por favor contacta a **Juan Ortiz**.
+Para cualquier consulta o comentario, por favor contacta al desarrollador **Juan Ortiz**.
 
